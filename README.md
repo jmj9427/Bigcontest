@@ -11,6 +11,7 @@
    ● visualization = Tableau
    
    ● Modeling = R
+     
      ○ Elastic net Model (Glmnet package)
   
    ##### performance = Accuracy
@@ -23,11 +24,13 @@
 ----------------------
 ### **게임 유저 이탈 예측 모형**
 #### game = blade & soul
-   ##### pre-processing = R
-   ##### visualization = R
+   ● pre-processing = R
    
-#### Modeling = R
-   ##### RandomForest, XGBoost (caret package)
+   ● visualization = R
+   
+   ● Modeling = R
+     
+     ○ RandomForest, XGBoost (caret package)
    
    ##### performance = F1 score
-      **Best f1 score = 0.7312
+      **Best f1 score = 0.7335
