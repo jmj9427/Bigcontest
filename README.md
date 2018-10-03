@@ -1,8 +1,8 @@
 # Bigcontest
 
-- Bigcontest 2017
+- **Bigcontest 2017**
 ------------------
-  Predicting the number of moviegoers to be released 3 movie
+### **Predicting the number of moviegoers to be released 3 movie**
 #### movie = 킹스맨3 / 남한산성 / 넛잡2
    ##### pre-processing = using R
    
