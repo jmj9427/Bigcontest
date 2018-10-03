@@ -33,4 +33,4 @@
      ○ RandomForest, XGBoost (caret package)
    
    ##### performance = F1 score
-      **Best f1 score = 0.7335
+      Best f1 score = 0.7335
