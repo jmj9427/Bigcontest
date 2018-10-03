@@ -5,8 +5,11 @@
 ### **Predicting the number of moviegoers to be released 3 movie**
 #### movie = 킹스맨3 / 남한산성 / 넛잡2
    ● pre-processing = R
+   
    ● crawling = Python
+   
    ● visualization = Tableau
+   
    ● Modeling = R
      ○ Elastic net Model (Glmnet package)
   
